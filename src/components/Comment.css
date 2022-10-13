@@ -1,0 +1,17 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+}
+
+.Comment {
+  background-color: aqua;
+}
+
+.comment-text {
+  background-color: lightcoral;
+}
+
+.comment-first {
+  background-color: lightcoral;
+}
